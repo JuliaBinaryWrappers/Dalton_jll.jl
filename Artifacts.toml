@@ -1,0 +1,385 @@
+[[Dalton]]
+arch = "aarch64"
+git-tree-sha1 = "604c3a1d213e8daf96d4ec4eb45dc07fbda1da1e"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Dalton.download]]
+    sha256 = "42f16efe4ed6a26f439df125b2064d833898ff3ca3a3645beeb5159cb0d35e34"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[Dalton]]
+arch = "aarch64"
+git-tree-sha1 = "f58c358a04c15c85f29324d09dff3ea689f96508"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "11f272520e0631e09e0810f289c21f65de10072ae85674e2ee8e8ed252b0a611"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[Dalton]]
+arch = "aarch64"
+git-tree-sha1 = "233c33c54e2ce7f3e940736c0e5b3a54d8f96e9c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "7c5411fdb95cd3a95a72ffcfcd53f975c0562903306f52eb4ca25cc105912723"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[Dalton]]
+arch = "aarch64"
+git-tree-sha1 = "d4d3aea9ef52ccd2e4d5c8b192403b3bb7794bac"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "90e1f9adbff3a60651ee37fb3f997fb0c5907ab5d4c89818fe52661329a13fa2"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[Dalton]]
+arch = "aarch64"
+git-tree-sha1 = "6327f4be9b76a129a65a0172c3964e2b7aba84d4"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "83ceb30a8c801411be8108af3a4da562cb92746b5169a415eb7b317e97c23aaf"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[Dalton]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "88cecbb8b049b0532dc25a70d955fe1e94de68ef"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "33e68f751bf0e8535f06a6c9e0e360a9d27562c54dfebe5f0515b3e1ed48679b"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Dalton]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f18816f8d1e73447718211fc4ac4b621c1f22372"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "b537049cc9b4e1c033e9fd3c0c03aea147381387f611c8b74168bcbc2ede8c74"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Dalton]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8718061d3dca75540b6353a46e8cd7cdad7a02c9"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "05ad054a62d7c92935adcb9389a6af97e352dd4bdeaf74eb39e1dd7018412d41"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Dalton]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8e9ae8079dd5a97ce8c6a6ba195f6005493ebf99"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "2520b35d6be40e590b952ddebafc3f6408ebfbe6b6974e882fee9469e2eb783e"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[Dalton]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "053c25e370cc49f382a8d03396974f82df5828c5"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "b12d3b88e986bf10d3052ed6313fc36af7de1dd76736589fd1d50b4ecc8521ed"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[Dalton]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3f5c8d0b13847e711b6fd328eb05f8d5f9ef9a5b"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "ecd851aefc14b5e3c8eb64767e0b458dc5a9cfe84a35692a5844351270223054"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[Dalton]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "08ff34636caecc462ecbb734425a6c6223da548c"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "426eb93d648267a365aac3147e6d514762314c4f3db1d2a770cc5e4c37fe81ab"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Dalton]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9d0641b826e57846a4fd9f1572484b1dde817d26"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "1d3c480940339e5404f113bfd822ad92b8e61d4afba588d81cdfeb54dacc50f8"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Dalton]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a5813b50ae7bc6ad993995348ba08c0d5b59a799"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "d10a3774825b8820e3f74d6aef69a062712a2270b11a4ace24b8129179092f77"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Dalton]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f5923dd8901d35e1c0217caa785c7c42a50bb6d7"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "826483551149119940eca4108690258da405736e15a8de2edecb42edf80e115c"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[Dalton]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4c31e9c18c61b425982023e0eb7536737d7b43a3"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "2f7df3ca083fe1d86c34d0f8755f15f9d42b601ba8e49bae08b0f83102d7c1b0"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[Dalton]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1ebfd34b01e22505311062f0615a9f7c3c8386ba"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "04a6ee7bdc9205a27d96fe75693559aa1ed17c241803f63203463a66949c54dd"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[Dalton]]
+arch = "i686"
+git-tree-sha1 = "94cca3aff0ba55121ee36f6c34e5fd8cb0f0095c"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "907d63644d76a4110aaef77bf5e85e4a693be10441b2d6d129f4c9c5f87bc713"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[Dalton]]
+arch = "i686"
+git-tree-sha1 = "ce1935d2e309d6726a5516b990608da0f559dfc5"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "77d78e1fc64bfecdb0d45c8ad3587da7b76b0cc3671af5b04e1ddac66cf4ab82"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[Dalton]]
+arch = "i686"
+git-tree-sha1 = "70be8eb4b41aecdbfa50ff4ce7c36ed98129f2a2"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "77b53492398f797655173c9c56fcc43c5ec930dc4f9c342ee4962de5f7d0d088"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[Dalton]]
+arch = "i686"
+git-tree-sha1 = "787cf5480afec5f5fce3bdc00239d101238f808d"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "4f5e51e91aa32812c094d07c7338bcbeb009c359cb0243dcda6777dae864b11b"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.i686-linux-musl-libgfortran3.tar.gz"
+[[Dalton]]
+arch = "i686"
+git-tree-sha1 = "574747562536390942ccbc39ea8fb27641c03716"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "b0a763ada831ab37aa34b01f81499c9bac4ff74dba7ea16e3691c96ce8f8bccf"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.i686-linux-musl-libgfortran4.tar.gz"
+[[Dalton]]
+arch = "i686"
+git-tree-sha1 = "48d15e2f10bb01aaacb2488cc0af0c8907bbe53b"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "d4248c7be4abcecec0024deb44439c3c216447eb85c7210fad6d709ce5fee25f"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.i686-linux-musl-libgfortran5.tar.gz"
+[[Dalton]]
+arch = "powerpc64le"
+git-tree-sha1 = "d8f1a5557bc1aa77c6adfcd2f8a905a6e07dff25"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "250f1e3492e696b2737e83ee3a161fa0782cb6c9436754f3f365cc494df6707f"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[Dalton]]
+arch = "powerpc64le"
+git-tree-sha1 = "bc328e8cc1a8fd8ba646efa3f5c35d466e0159f2"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "baafc3513652ad2b9ce698f757b6cf4329eaea8b5a98fc54f9704fa316464506"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[Dalton]]
+arch = "powerpc64le"
+git-tree-sha1 = "a47bbcac18f47fa6ec07445175a284d7e51148dd"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "7ff6a5daf8257ae87f7a1c1eec727b221abae263799b5cde181219caf7abb10f"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[Dalton]]
+arch = "x86_64"
+git-tree-sha1 = "921a02be6a1916df73bbb3662071a92130b4fd29"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[Dalton.download]]
+    sha256 = "bbd0492e2835be8a0c601d8b3afae1c53674e5932c8c887161f648131f7f1a6d"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[Dalton]]
+arch = "x86_64"
+git-tree-sha1 = "750d97c2c9426b4c70773eea6610fa03b35cbe19"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[Dalton.download]]
+    sha256 = "6c3f32876d2ede5a23153f6f806e258c29594e169f9c012c75264c81d1cb053a"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[Dalton]]
+arch = "x86_64"
+git-tree-sha1 = "cff59ab3b4cb0f2096fd4ca2d922be17d4108f41"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Dalton.download]]
+    sha256 = "33f666c3b805100706d1f5513510e6daa82f0c072fa8e89147d6e7d5c96616ce"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[Dalton]]
+arch = "x86_64"
+git-tree-sha1 = "9c81c2e108d88ca656af38689cd1dc97e4b34247"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "ad4cf1892d582ac96893534455415c6347045d3a4e739f82c4a7398b1c7b6ae0"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[Dalton]]
+arch = "x86_64"
+git-tree-sha1 = "f5bfea735387248bfcb6da0fc756f27422157b0f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "449d373ecba162aa7731a392f661f64b46f015eddca6afd3c1a6261a0b68d301"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[Dalton]]
+arch = "x86_64"
+git-tree-sha1 = "9a74f7f927f02499e3ff44bf6a5bd198c7f06261"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "59fa3ef05f8101cff5412df694e61c12bddff1bd9191dac77b2fe9e322e6a2db"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[Dalton]]
+arch = "x86_64"
+git-tree-sha1 = "b0762f483aa71a59629280da42fad39fa31496a6"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "7cace31878e845d577e8d662bec45282a6bf026c08927fc03768b03e753d22e0"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[Dalton]]
+arch = "x86_64"
+git-tree-sha1 = "9f92c370727d6e8276e41616d15e167bf2441394"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "6eb4e45931877258ae34c2fa88557c02ec7655c39d70cb7039302339e7e5b222"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[Dalton]]
+arch = "x86_64"
+git-tree-sha1 = "53d6732f86a883d45eae825f1f2fc1a035c5a52c"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Dalton.download]]
+    sha256 = "e64655e98bd1e1438498ebeb90345cc7245a463944974b56acf88f4ec6da7a05"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[Dalton]]
+arch = "x86_64"
+git-tree-sha1 = "8593a1c42350d8325e6c4dc4188af2bd1ade8e30"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[Dalton.download]]
+    sha256 = "d55ccdf476ef69a3624a76f9ca8a341a4321e1f4309104cce0f8353394205aba"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[Dalton]]
+arch = "x86_64"
+git-tree-sha1 = "df6d753528de472f2fe6a3120ac3354622955443"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[Dalton.download]]
+    sha256 = "58b041e7788a780208b9f2c07a362bab5adfccbfa4aec72940be14a03d3833fe"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[Dalton]]
+arch = "x86_64"
+git-tree-sha1 = "0628e99fe823f34b122993d2db9ff5345cd6a9fd"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[Dalton.download]]
+    sha256 = "098430f6353b51d0bec862ca210baac451eee78cc3374c5619539f717a4ab838"
+    url = "https://github.com/JuliaBinaryWrappers/Dalton_jll.jl/releases/download/Dalton-v2020.1.0+0/Dalton.v2020.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
